@@ -20,6 +20,7 @@ If you want to name it something else then replace "nn" with desired name.
 ---
 
 ## Complete program flow
+```
 Program Start
     ↓
 Initialize Parameters
@@ -127,6 +128,7 @@ END Test Loop
 Print Final Testing Accuracy
     ↓
 Program Exit
+```
 
 (The above flow is made using ChatGPT, because I suck at explaining things. Also this readme is curated using ChatGPT in order for better communication)
 
