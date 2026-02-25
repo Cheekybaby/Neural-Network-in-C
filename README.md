@@ -177,6 +177,6 @@ P.S. These are the suggestions made my ChatGPT as it mocked my implementation. S
 ---
 
 ## Mentions
-- Tsoding daily for motivating me for developing whatever I liked
+- @tsoding for motivating me for developing whatever I liked
 - https://github.com/mounirouadi/Deep-Neural-Network-in-C for the idea and data for my implementation (I studied the code and learnt a lot).
 - AI coding agents (ChatGPT and Gemini) and Google for answering my dumbass questions.
